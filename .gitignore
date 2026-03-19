@@ -1,3 +1,6 @@
 # Python
 .idea/
 __pycache__/
+
+# Downloaded data
+data/
