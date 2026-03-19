@@ -54,7 +54,7 @@ for epoch in range(1000):
     losses.append(loss.item())
     accuracies.append(acc)
 
-    if epoch % 100 == 0:
+    if epoch == 0 or (epoch + 1) % 100 == 0:
         print(f"Epoch {epoch:4d} | Loss: {loss.item():.4f} | Accuracy: {acc:.4f}")
         
 # Plot

@@ -125,7 +125,7 @@ for epoch in range(epochs):
     history['val_loss'].append(epoch_val_loss)
     history['val_accuracy'].append(epoch_val_acc)
     
-    if epoch % 10 == 0 or epoch == epochs - 1:
+    if epoch == 0 or (epoch + 1) % 10 == 0:
         print(f"Epoch [{epoch+1}/{epochs}] - "
               f"loss: {epoch_loss:.4f} - acc: {epoch_acc:.4f} - "
               f"val_loss: {epoch_val_loss:.4f} - val_acc: {epoch_val_acc:.4f}")
