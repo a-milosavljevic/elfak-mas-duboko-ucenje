@@ -25,17 +25,17 @@
 ## DL03 - PCA+MLP i CNN
 
 ### DL03a: PCA+MLP (Keras)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03a_PCA_MLP_Keras.ipynb)
-[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03a_PCA_MLP_Keras.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03a_MNIST_PCA_MLP_Keras.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03a_MNIST_PCA_MLP_Keras.py)
 
 ### DL03b: PCA+MLP (PyTorch)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03b_PCA_MLP_PyTorch.ipynb)
-[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03b_PCA_MLP_PyTorch.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03b_MNIST_PCA_MLP_PyTorch.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03b_MNIST_PCA_MLP_PyTorch.py)
 
 ### DL03c: CNN (Keras)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03c_CNN_Keras.ipynb)
-[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03c_CNN_Keras.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03c_MNIST_CNN_Keras.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03c_MNIST_CNN_Keras.py)
 
 ### DL03d: CNN (PyTorch)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03d_CNN_PyTorch.ipynb)
-[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03d_CNN_PyTorch.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03d_MNIST_CNN_PyTorch.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03d_MNIST_CNN_PyTorch.py)
