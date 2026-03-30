@@ -54,7 +54,7 @@ criterion = nn.CrossEntropyLoss()
 optimizer = optim.SGD(model.parameters(), lr=0.1)
 
 # 5. Treniranje (Ekvivalent za model.fit i čuvanje 'hist' objekta)
-epochs = 100
+epochs = 500
 batch_size = 2048
 num_train = x_train.shape[0]
 num_test = x_test.shape[0]

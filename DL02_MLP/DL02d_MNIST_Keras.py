@@ -23,7 +23,7 @@ model.compile(optimizer=tf.keras.optimizers.SGD(learning_rate=0.1),
 
 model.summary()
 
-hist = model.fit(x_train, y_train, batch_size=2048, epochs=100, validation_data=(x_test, y_test), verbose=2)
+hist = model.fit(x_train, y_train, batch_size=2048, epochs=500, validation_data=(x_test, y_test), verbose=2)
 
 plt.plot(hist.history['loss'])
 plt.plot(hist.history['val_loss'])
