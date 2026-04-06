@@ -4,3 +4,10 @@ __pycache__/
 
 # Downloaded data
 data/
+
+# Data and resuls
+/DL04_TransferLearning/__MACOSX*
+/DL04_TransferLearning/101_ObjectCategories*
+/DL04_TransferLearning/caltech-101*
+/DL04_TransferLearning/train_results_keras*
+/DL04_TransferLearning/train_results_pytorch*

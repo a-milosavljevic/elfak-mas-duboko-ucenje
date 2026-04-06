@@ -39,3 +39,13 @@
 ### DL03d: CNN (PyTorch)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03d_MNIST_CNN_PyTorch.ipynb)
 [![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL03_CNN/DL03d_MNIST_CNN_PyTorch.py)
+
+## DL04 - Transfer Learning na skupu Caltech 101
+
+### DL04a: Transfer Learning (Keras)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL04_TransferLearning/DL04a_TransferLearning_Keras.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL04_TransferLearning/DL04a_TransferLearning_Keras.py)
+
+### DL04a: Transfer Learning (PyTorch)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL04_TransferLearning/DL04b_TransferLearning_PyTorch.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL04_TransferLearning/DL04b_TransferLearning_PyTorch.py)
