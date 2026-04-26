@@ -6,8 +6,8 @@ __pycache__/
 data/
 
 # Data and resuls
-/DL04_TransferLearning/__MACOSX*
-/DL04_TransferLearning/101_ObjectCategories*
-/DL04_TransferLearning/caltech-101*
-/DL04_TransferLearning/train_results_keras*
-/DL04_TransferLearning/train_results_pytorch*
+__MACOSX/
+101_ObjectCategories/
+caltech-101*
+train_results_keras/
+train_results_pytorch/

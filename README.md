@@ -46,6 +46,16 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL04_TransferLearning/DL04a_TransferLearning_Keras.ipynb)
 [![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL04_TransferLearning/DL04a_TransferLearning_Keras.py)
 
-### DL04a: Transfer Learning (PyTorch)
+### DL04b: Transfer Learning (PyTorch)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL04_TransferLearning/DL04b_TransferLearning_PyTorch.ipynb)
 [![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL04_TransferLearning/DL04b_TransferLearning_PyTorch.py)
+
+## DL05 - Transfer Learning, Data Augmentation i dinamičko učitavanje na skupu Caltech 101
+
+### DL05a: Data Augmentation (Keras)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL05_DataAugmentation/DL05a_DataAugmentation_Keras.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL05_DataAugmentation/DL05a_DataAugmentation_Keras.py)
+
+### DL05b: Data Augmentation (PyTorch)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL05_DataAugmentation/DL05b_DataAugmentation_PyTorch.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL05_DataAugmentation/DL05b_DataAugmentation_PyTorch.py)
