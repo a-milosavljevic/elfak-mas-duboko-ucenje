@@ -11,3 +11,4 @@ __MACOSX/
 caltech-101*
 train_results_keras/
 train_results_pytorch/
+/DL06_GradCAM/*.jpg
