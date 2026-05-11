@@ -12,3 +12,5 @@ caltech-101*
 train_results_keras/
 train_results_pytorch/
 /DL06_GradCAM/*.jpg
+VOCdevkit
+VOCtrainval_11-May-2012.tar

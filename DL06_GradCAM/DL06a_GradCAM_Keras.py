@@ -13,7 +13,7 @@ import urllib.request
 image_size = 260  # zavisi od učitanog modela
 
 # Definiše poslednji konvolucioni sloj i izlazni sloj za dati model
-last_conv_layer_name = 'top_activation' # zavisi od učitanog modela
+last_conv_layer_name = 'top_conv'       # zavisi od učitanog modela
 classifier_layer_name = 'predictions'   # zavisi od učitanog modela
 
 model = tf.keras.applications.efficientnet.EfficientNetB2(include_top=True, weights='imagenet')

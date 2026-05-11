@@ -97,7 +97,9 @@ def backward_hook(module, grad_input, grad_output):
     gradients = grad_output[0]
 
 # U EfficientNet arhitekturi u PyTorch-u, poslednji konvolucioni sloj pre klasifikatora nalazi se u model.features
-last_conv_layer = model.features[-1]
+# model.features[-1] blok je zapravo 'Conv2dNormActivation' koji sadrži Conv2d, BatchNorm i SiLU.
+# Conv2d sloju iz tog bloka pristupate sa indeksom 0
+last_conv_layer = model.features[-1][0]
 
 # Registracija hook-ova na taj sloj
 handle_forward = last_conv_layer.register_forward_hook(forward_hook)

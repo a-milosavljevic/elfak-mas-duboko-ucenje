@@ -69,3 +69,13 @@
 ### DL06b: Grad-CAM (PyTorch)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL06_GradCAM/DL06b_GradCAM_PyTorch.ipynb)
 [![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL06_GradCAM/DL06b_GradCAM_PyTorch.py)
+
+## DL07 - Semantička segmentacija korišćenjem U-Net mreže
+
+### DL07a: MobileNetV2 U-Net (Keras)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL07_Segmentation/DL07a_VOC2012_UNet_Keras.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL07_Segmentation/DL07a_VOC2012_UNet_Keras.py)
+
+### DL07b: MobileNetV2 U-Net (PyTorch)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL07_Segmentation/DL07b_VOC2012_UNet_PyTorch.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL07_Segmentation/DL07b_VOC2012_UNet_PyTorch.py)
