@@ -104,7 +104,7 @@
 
 ### DL08f: Klasifikacija teksta (analiza sentimenta na IMDB skupu) - Dvostruki LSTM (Keras)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08f_TextClassification_LSTMx2_Keras.ipynb)
-[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08f_TextClassification_LSTMx2_Keraspy)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08f_TextClassification_LSTMx2_Keras.py)
 
 ### DL08g: Klasifikacija teksta (analiza sentimenta na IMDB skupu) - LSTM sa Glove embeddings-om (Keras)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08g_TextClassification_LSTM_Glove_Keras.ipynb)
