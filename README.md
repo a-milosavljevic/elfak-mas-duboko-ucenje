@@ -79,3 +79,37 @@
 ### DL07b: MobileNetV2 U-Net (PyTorch)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL07_Segmentation/DL07b_VOC2012_UNet_PyTorch.ipynb)
 [![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL07_Segmentation/DL07b_VOC2012_UNet_PyTorch.py)
+
+## DL08 - Obrada teksta
+
+### DL08a: Klasifikacija teksta (analiza sentimenta na IMDB skupu) - Fully Connected (Keras)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08a_TextClassification_FC_Keras.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08a_TextClassification_FC_Keras.py)
+
+### DL08b: Klasifikacija teksta (analiza sentimenta na IMDB skupu) - CNN (Keras)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08b_TextClassification_CNN_Keras.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08b_TextClassification_CNN_Keras.py)
+
+### DL08c: Klasifikacija teksta (analiza sentimenta na IMDB skupu) - RNN (Keras)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08c_TextClassification_RNN_Keras.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08c_TextClassification_RNN_Keras.py)
+
+### DL08d: Klasifikacija teksta (analiza sentimenta na IMDB skupu) - LSTM (Keras)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08d_TextClassification_LSTM_Keras.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08d_TextClassification_LSTM_Keras.py)
+
+### DL08e: Klasifikacija teksta (analiza sentimenta na IMDB skupu) - GRU (Keras)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08e_TextClassification_GRU_Keras.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08e_TextClassification_GRU_Keras.py)
+
+### DL08f: Klasifikacija teksta (analiza sentimenta na IMDB skupu) - Dvostruki LSTM (Keras)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08f_TextClassification_LSTMx2_Keras.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08f_TextClassification_LSTMx2_Keraspy)
+
+### DL08g: Klasifikacija teksta (analiza sentimenta na IMDB skupu) - LSTM sa Glove embeddings-om (Keras)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08g_TextClassification_LSTM_Glove_Keras.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08g_TextClassification_LSTM_Glove_Keras.py)
+
+### DL08h: Neural Machine Translation korišćenjem LSTM-a (Keras)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08h_NeuralMachineTranslation_Keras.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08h_NeuralMachineTranslation_Keras.py)
