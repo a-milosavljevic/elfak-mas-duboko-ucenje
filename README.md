@@ -113,3 +113,13 @@
 ### DL08h: Neural Machine Translation korišćenjem LSTM-a (Keras)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08h_NeuralMachineTranslation_Keras.ipynb)
 [![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL08_TextProcessing/DL08h_NeuralMachineTranslation_Keras.py)
+
+## DL09 - Varijacioni autoenkoder (VAE) na MNIST skupu
+
+### DL09a: VAE MNIST (Keras)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL09_VAE_MNIST/DL09a_VAE_MNIST_Keras.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL09_VAE_MNIST/DL09a_VAE_MNIST_Keras.py)
+
+### DL09b: VAE MNIST (PyTorch)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL09_VAE_MNIST/DL09b_VAE_MNIST_PyTorch.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL09_VAE_MNIST/DL09b_VAE_MNIST_PyTorch.py)
