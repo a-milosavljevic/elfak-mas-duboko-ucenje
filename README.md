@@ -123,3 +123,9 @@
 ### DL09b: VAE MNIST (PyTorch)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL09_VAE_MNIST/DL09b_VAE_MNIST_PyTorch.ipynb)
 [![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL09_VAE_MNIST/DL09b_VAE_MNIST_PyTorch.py)
+
+## DL11 - Deep Reinforcement Learning (DQN) primenjeno na inverzno klatno (Cart Pole)
+
+### DL11a: Cart Pole DQN (PyTorch)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL11_CartPoleDQN/DL11a_CartPoleDQN_PyTorch.ipynb)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL11_CartPoleDQN/DL11a_CartPoleDQN_PyTorch.py)
