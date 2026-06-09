@@ -134,7 +134,7 @@
 
 ### DL11a: Cart Pole DQN (PyTorch)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL11_DeepReinforcementLearning/DL11a_CartPoleDQN_PyTorch.ipynb)
-[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL11_DeepReinforcementLearning/DL11a_CartPole_PyTorch.py)
+[![View Script](https://img.shields.io/badge/Python-Script-181717?logo=github)](https://github.com/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL11_DeepReinforcementLearning/DL11a_CartPoleDQN_PyTorch.py)
 
 ### DL11b: Cart Pole REINFORCE (PyTorch)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/a-milosavljevic/elfak-mas-duboko-ucenje/blob/main/DL11_DeepReinforcementLearning/DL11b_CartPoleREINFORCE_PyTorch.ipynb)
