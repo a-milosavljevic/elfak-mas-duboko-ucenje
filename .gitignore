@@ -15,3 +15,6 @@ train_results_pytorch/
 VOCdevkit
 VOCtrainval_11-May-2012.tar
 NeuralMachineTranslation_Results
+results_dqn_pytorch
+results_actorcritic_pytorch
+results_reinforce_pytorch
